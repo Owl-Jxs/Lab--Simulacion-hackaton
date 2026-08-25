@@ -1,4 +1,4 @@
-#include "../model&colas/usuario/NodoUsuario.h"
+#include "NodoUsuario.h"
 
 NodoUsuario::NodoUsuario(Usuario* usuario) {
     dato = usuario;
