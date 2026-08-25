@@ -1,4 +1,4 @@
-#include "Usuario.h"
+#include "../model&colas/usuario/Usuario.h"
 
 Usuario::Usuario(string name, int id, string categoriaCliente) {
     this->name = name;
