@@ -1,6 +1,6 @@
 #ifndef NODOUSUARIO_H
 #define NODOUSUARIO_H
-#include "../model&colas/usuario/Usuario.h"
+#include "Usuario.h"
 
 class NodoUsuario {
 private:
