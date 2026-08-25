@@ -1,5 +1,5 @@
 #pragma once
-#include "Usuario.h"
+#include "../Usuario.h"
 #include "nodoUsuario.h"
 
 class ColaUsuarios {
